@@ -33,3 +33,4 @@ os.system("cls")
 
 # nums = ask_nums()
 # print(checker(nums))
+salom
